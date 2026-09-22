@@ -13,7 +13,6 @@ public:
                 c=capacity;
                 c-=plants[i];
             }
-            cout << ans << endl;
         }
         return ans;
     }
